@@ -15,7 +15,7 @@ Instagram [@dwin.dw](https://www.instagram.com/dwin.dw/)<br/>
 * Coursework<br/>
 Here are some Machine Learning projects I worked on while I was in college.
   * Natural Language Processing (NLP)
-  * Text Summarization)
+  * Text Summarization
   * Sequence, Time Series, and Prediction
   * Face Recognition using Haar Cascade (OpenCV)
   
